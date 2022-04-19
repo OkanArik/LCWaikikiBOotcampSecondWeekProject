@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\DELL\\OneDrive\\Masaüstü\\LC_Waikiki_SecondWeekProject\\WebApi\\WebApi.csproj": {}
+    "C:\\Users\\DELL\\OneDrive\\Masaüstü\\LC_Waikiki_SecondWeekProject\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\DELL\\OneDrive\\Masaüstü\\LC_Waikiki_SecondWeekProject\\WebApi\\WebApi.csproj": {
+    "C:\\Users\\DELL\\OneDrive\\Masaüstü\\LC_Waikiki_SecondWeekProject\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\DELL\\OneDrive\\Masaüstü\\LC_Waikiki_SecondWeekProject\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\OneDrive\\Masaüstü\\LC_Waikiki_SecondWeekProject\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "c:\\Users\\DELL\\OneDrive\\Masaüstü\\LC_Waikiki_SecondWeekProject\\WebApi\\WebApi.csproj",
+        "projectPath": "C:\\Users\\DELL\\OneDrive\\Masaüstü\\LC_Waikiki_SecondWeekProject\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\DELL\\OneDrive\\Masaüstü\\LC_Waikiki_SecondWeekProject\\WebApi\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\OneDrive\\Masaüstü\\LC_Waikiki_SecondWeekProject\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

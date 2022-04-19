@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/z9o/7gYI86FTHFL/ENQ8bPCThQ9A02952XrMBdG1rO8dVeOCF5ovUKEuE7z4nN7hku+zdTaU51sA+F1LlNHnQ==",
+  "dgSpecHash": "SFCvkYbXF1uZ9LYNDaiihJzAKwIfLkxR2UnvQUxGIwMaRsLT/CHUnxo/rIKnvKc+P+ExhnvLwzn6QVoXv16Uug==",
   "success": true,
-  "projectFilePath": "c:\\Users\\DELL\\OneDrive\\Masaüstü\\LC_Waikiki_SecondWeekProject\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\OneDrive\\Masaüstü\\LC_Waikiki_SecondWeekProject\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
